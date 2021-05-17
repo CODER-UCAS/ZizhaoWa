@@ -5,12 +5,12 @@
 
 - 📚 I’m a student of Shen Yang JIANZHU University.
 - 🏛 I’m going to do my master's degree in SIAT.
-- 🔭 Working on Controllable TTS recently.
-- :briefcase: Worked as Research Intern at [MSRA](https://www.microsoft.com/en-us/research/).
+- 🔭 Working on parallel query optimization recently.
+- :briefcase: Worked as Research Intern at [SIAT](http://www.siat.ac.cn/).
 - 🚀 I use daily:
 ![C++](https://img.shields.io/badge/-C++-8fcfd1?style=plastic&logo=C++)
 ![Python](https://img.shields.io/badge/-Python-3f4441?style=plastic&logo=Python)
 ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)
+![Clion](https://img.shields.io/badge/-CLion-blue)
 - 📫 How to reach me: 81192wzz@gmail.com
 
