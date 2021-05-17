@@ -1,5 +1,5 @@
 ### Hi, I'm Zizhao Wang👋 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=hit-thusz-Rookiecj.hit-thusz-Rookiecj.README)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=ZizhaoWang-s-Warehouse.README)
 ![blog](https://img.shields.io/badge/blog-https%3A%2F%2Fblog.csdn.net%2Fjunbaba__%3Fspm%3D1010.2135.3001.5113-red)
 <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=hit-thusz-Rookiecj&show_icons=true">
 
