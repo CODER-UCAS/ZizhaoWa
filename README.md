@@ -3,7 +3,7 @@
 ![Homepage](https://img.shields.io/badge/blog-https%3A%2F%2Fblog.csdn.net%2Fjunbaba__%3Fspm%3D1010.2135.3001.5113-red)
 <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=ZizhaoWa&show_icons=true">
 
-- 📚 I’m a student of SHENYANG JIANZHU University.
+- 📚 I’m a student of University of Chinese Academy of Sciences.
 - 🏛 I’m going to do my master's degree in [UCAS](https://english.ucas.ac.cn/).
 - 🔭 Working on parallel query optimization recently.
 - :briefcase: Worked as Research Intern at [SIAT](http://english.siat.cas.cn/) in [CAS](http://english.cas.cn/).
