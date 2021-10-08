@@ -4,9 +4,9 @@
 <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=ZizhaoWa&show_icons=true">
 
 - 📚 I’m a student of Shen Yang JIANZHU University.
-- 🏛 I’m going to do my master's degree in SIAT.
+- 🏛 I’m going to do my master's degree in [UCAS](https://english.ucas.ac.cn/).
 - 🔭 Working on parallel query optimization recently.
-- :briefcase: Worked as Research Intern at [SIAT]().
+- :briefcase: Worked as Research Intern at [SIAT](https://www.siat.ac.cn/) in [CAS](http://english.cas.cn/).
 - 🚀 I use daily:
 ![C++](https://img.shields.io/badge/-C++-8fcfd1?style=plastic&logo=C++)
 ![Python](https://img.shields.io/badge/-Python-3f4441?style=plastic&logo=Python)
