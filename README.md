@@ -1,6 +1,6 @@
 ### Hi, I'm Zizhao Wang👋 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=ZizhaoWang-s-Warehouse.README)
-![Homepage](https://img.shields.io/badge/Github-Blog-orange)
+![Homepage](https://zizhaowa.github.io/)
 <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=ZizhaoWa&show_icons=true">
 
 - 📚 I’m a student of SHENYANG JIANZHU University.
