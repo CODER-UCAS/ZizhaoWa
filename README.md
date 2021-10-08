@@ -3,7 +3,7 @@
 ![Homepage](https://img.shields.io/badge/Github-Blog-orange)
 <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=ZizhaoWa&show_icons=true">
 
-- 📚 I’m a student of Shen Yang JIANZHU University.
+- 📚 I’m a student of SHENYANG JIANZHU University.
 - 🏛 I’m going to do my master's degree in [UCAS](https://english.ucas.ac.cn/).
 - 🔭 Working on parallel query optimization recently.
 - :briefcase: Worked as Research Intern at [SIAT](http://english.siat.cas.cn/) in [CAS](http://english.cas.cn/).
