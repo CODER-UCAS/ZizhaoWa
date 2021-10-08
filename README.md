@@ -12,5 +12,5 @@
 ![Python](https://img.shields.io/badge/-Python-3f4441?style=plastic&logo=Python)
 ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
 ![Clion](https://img.shields.io/badge/-CLion-blue)
-- 📫 How to reach me: 81192wzz@gmail.com
+- 📫 How to reach me: zz.wang@siat.ac.cn
 
